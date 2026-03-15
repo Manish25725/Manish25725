@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+HTML%2FCSS%2FJS+Enthusiast+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%94%A5;Open+to+Collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Angular+Enthusiast+%E2%9A%A1;Node.js+%7C+Express+%7C+Laravel+Backend+Dev+%F0%9F%94%A5;Docker+%7C+Kubernetes+%7C+DevOps+Explorer+%F0%9F%90%B3;Always+Learning%2C+Always+Building+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,10 +19,15 @@
 ```javascript
 const manish = {
   role        : "Full Stack Developer",
-  languages   : ["JavaScript", "HTML", "CSS"],
-  frameworks  : ["React", "Node.js"],
-  passion     : "Building clean, responsive & fast web apps",
-  currentFocus: "Mastering React & exploring backend tech",
+  frontend    : ["HTML", "CSS", "JavaScript", "React", "Next.js", "Angular"],
+  backend     : ["Node.js", "Express", "PHP", "Laravel"],
+  databases   : ["MongoDB", "PostgreSQL", "MySQL"],
+  devOps      : ["Docker", "Kubernetes"],
+  realtime    : ["Socket.io"],
+  auth        : ["JWT"],
+  languages   : ["JavaScript", "PHP", "C++"],
+  passion     : "Building scalable, full-stack web applications",
+  currentFocus: "Mastering DevOps & System Design",
   funFact     : "I debug with console.log and I'm not ashamed 😄",
   motto       : "Code. Break. Fix. Repeat. 🔄"
 };
@@ -39,12 +44,33 @@ const manish = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### 🔧 Tools & Platforms
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🐳 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
@@ -55,7 +81,7 @@ const manish = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manish25725&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish25725&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish25725&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -89,11 +115,11 @@ const manish = {
 
 ## 🚀 What I'm Up To
 
-- 🔭 &nbsp; Currently building **full-stack web projects**
-- 🌱 &nbsp; Deepening my skills in **React & JavaScript**
-- 💡 &nbsp; Exploring **backend development** (Node.js, APIs)
+- 🔭 &nbsp; Currently building **full-stack apps** with Next.js & Node.js
+- 🌱 &nbsp; Exploring **Docker, Kubernetes & system design**
+- ⚡ &nbsp; Building **real-time apps** with Socket.io
 - 🤝 &nbsp; Open to **collaborating on interesting projects**
-- 🎯 &nbsp; Goal: Become a well-rounded **Full Stack Developer**
+- 🎯 &nbsp; Goal: Build **production-grade, scalable systems**
 
 ---
 
