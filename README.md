@@ -1,79 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Manish&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=55&rotate=-2&stroke=6AD3F7&strokeWidth=2&desc=Full%20Stack%20Developer%20%7C%20Code.%20Ship.%20Scale.&descAlignY=78&descSize=16&descColor=a0d8ef" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Manish!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Web,%20One%20Line%20at%20a%20Time&descAlignY=55&descSize=18" />
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=6AD3F7&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=⚡+Full+Stack+Developer;🚀+React+%7C+Next.js+%7C+Angular;🔥+Node.js+%7C+Express+%7C+Laravel;🐳+Docker+%7C+Kubernetes+%7C+DevOps;🧠+Always+Learning%2C+Always+Shipping)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Manish25725&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<div align="center">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Angular+Enthusiast+%E2%9A%A1;Node.js+%7C+Express+%7C+Laravel+Backend+Dev+%F0%9F%94%A5;Docker+%7C+Kubernetes+%7C+DevOps+Explorer+%F0%9F%90%B3;Always+Learning%2C+Always+Building+%F0%9F%92%AA)](https://git.io/typing-svg)
 
-```typescript
-const manish: Developer = {
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```javascript
+const manish = {
   role        : "Full Stack Developer",
-  frontend    : ["React", "Next.js", "Angular", "HTML", "CSS", "JS"],
+  frontend    : ["HTML", "CSS", "JavaScript", "React", "Next.js", "Angular"],
   backend     : ["Node.js", "Express", "PHP", "Laravel"],
   databases   : ["MongoDB", "PostgreSQL", "MySQL"],
   devOps      : ["Docker", "Kubernetes"],
   realtime    : ["Socket.io"],
   auth        : ["JWT"],
-  languages   : ["JavaScript", "TypeScript", "PHP", "C++"],
-  currentFocus: "System Design + DevOps Mastery 🎯",
-  funFact     : "I ship first, refactor later 😅",
-  motto       : "⚡ Build fast. Break things. Fix faster.",
+  languages   : ["JavaScript", "PHP", "C++"],
+  passion     : "Building scalable, full-stack web applications",
+  currentFocus: "Mastering DevOps & System Design",
+  funFact     : "I debug with console.log and I'm not ashamed 😄",
+  motto       : "Code. Break. Fix. Repeat. 🔄"
 };
 ```
 
-<br clear="right"/>
-
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular&theme=dark&perline=6" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### ⚙️ Backend & Auth
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&theme=dark&perline=4" />
-</p>
-<p>
-  <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
-</p>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark&perline=3" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🐳 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,linux&theme=dark&perline=6" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,php,cpp&theme=dark&perline=3" />
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
@@ -83,24 +80,24 @@ const manish: Developer = {
 
 <div align="center">
 
-<a href="https://github.com/Manish25725">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manish25725&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish25725&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manish25725&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish25725&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Manish25725&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Manish25725&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Manish25725&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Manish25725&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -110,58 +107,40 @@ const manish: Developer = {
 
 <div align="center">
 
-[![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manish25725&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&area_color=6AD3F7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manish25725&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 What I'm Up To
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manish25725/Manish25725/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manish25725/Manish25725/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Manish25725/Manish25725/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
+- 🔭 &nbsp; Currently building **full-stack apps** with Next.js & Node.js
+- 🌱 &nbsp; Exploring **Docker, Kubernetes & system design**
+- ⚡ &nbsp; Building **real-time apps** with Socket.io
+- 🤝 &nbsp; Open to **collaborating on interesting projects**
+- 🎯 &nbsp; Goal: Build **production-grade, scalable systems**
 
 ---
 
-## 🚀 Currently
+## 📬 Connect With Me
 
 <div align="center">
 
-| 🔭 Building | 🌱 Learning | 🤝 Open To |
-|---|---|---|
-| Full-Stack Apps with Next.js | System Design & DevOps | Collaborations |
-| Real-time apps with Socket.io | Advanced Kubernetes | Freelance Projects |
-| REST & WebSocket APIs | Cloud Architecture | Open Source |
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manish25725)
+[![GitHub](https://img.shields.io/badge/GitHub-Manish25725-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manish25725)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-<br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+> 💬 *Feel free to reach out — I'm always happy to connect, collaborate, or just talk tech!*
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Manish25725&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Manish25725&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
